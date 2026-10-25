@@ -4247,7 +4247,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - preflight_url tool that unwraps short links and tells agents whether to fetch or skip a URL.
 - [Synorb: News & Context for AI Agents](https://synorb.com/docs/mcp) `https://mcp.synorb.com/mcp`
   [![Synorb MCP connector](https://glama.ai/mcp/connectors/com.synorb/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.synorb/mcp)
-  🔓 - News and context for agents: company newsrooms, SEC filings, central banks, research and podcasts, sourced; free key.
+  🔓 - Cited news for AI agents from AI companies, VC firms, private companies and business podcasts; free key to read.
 - [TANDIU](https://www.tandiu.cn) `https://www.tandiu.cn/mcp`
   [![TANDIU MCP connector](https://glama.ai/mcp/connectors/cn.tandiu/data/badges/score.svg)](https://glama.ai/mcp/connectors/cn.tandiu/data)
   🔓 - Daily AI infrastructure data for agents: LLM API prices, GPU rental, self-hosting costs, cloud agents and AI funding.
